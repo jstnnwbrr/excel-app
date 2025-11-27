@@ -15,7 +15,6 @@ data = [
 
 columns = ['id','x', 'y', 'color']
 
-table = Table(data, columns)
-table
+Table(data, columns)
 
 st.dataframe(table)
