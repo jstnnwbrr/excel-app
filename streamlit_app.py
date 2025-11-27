@@ -15,4 +15,4 @@ data = [
 
 columns = ['id','x', 'y', 'color']
 
-Table(data, columns)
+Table(data)
